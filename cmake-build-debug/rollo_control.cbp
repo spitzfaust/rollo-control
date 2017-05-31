@@ -1,0 +1,443 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="rollo_control"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\lib\;CMake Files\lib\nana\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/tobias/Code/rollo-control/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j4 -f &quot;/home/tobias/Code/rollo-control/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/gmake -j4 -f &quot;/home/tobias/Code/rollo-control/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j4 -f &quot;/home/tobias/Code/rollo-control/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j4 -f &quot;/home/tobias/Code/rollo-control/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="install/strip">
+				<Option working_dir="/home/tobias/Code/rollo-control/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j4 -f &quot;/home/tobias/Code/rollo-control/cmake-build-debug/Makefile&quot;  VERBOSE=1 install/strip"/>
+					<CompileFile command="/usr/bin/gmake -j4 -f &quot;/home/tobias/Code/rollo-control/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j4 -f &quot;/home/tobias/Code/rollo-control/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j4 -f &quot;/home/tobias/Code/rollo-control/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="install/local">
+				<Option working_dir="/home/tobias/Code/rollo-control/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j4 -f &quot;/home/tobias/Code/rollo-control/cmake-build-debug/Makefile&quot;  VERBOSE=1 install/local"/>
+					<CompileFile command="/usr/bin/gmake -j4 -f &quot;/home/tobias/Code/rollo-control/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j4 -f &quot;/home/tobias/Code/rollo-control/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j4 -f &quot;/home/tobias/Code/rollo-control/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="install">
+				<Option working_dir="/home/tobias/Code/rollo-control/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j4 -f &quot;/home/tobias/Code/rollo-control/cmake-build-debug/Makefile&quot;  VERBOSE=1 install"/>
+					<CompileFile command="/usr/bin/gmake -j4 -f &quot;/home/tobias/Code/rollo-control/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j4 -f &quot;/home/tobias/Code/rollo-control/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j4 -f &quot;/home/tobias/Code/rollo-control/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="list_install_components">
+				<Option working_dir="/home/tobias/Code/rollo-control/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j4 -f &quot;/home/tobias/Code/rollo-control/cmake-build-debug/Makefile&quot;  VERBOSE=1 list_install_components"/>
+					<CompileFile command="/usr/bin/gmake -j4 -f &quot;/home/tobias/Code/rollo-control/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j4 -f &quot;/home/tobias/Code/rollo-control/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j4 -f &quot;/home/tobias/Code/rollo-control/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/tobias/Code/rollo-control/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j4 -f &quot;/home/tobias/Code/rollo-control/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/gmake -j4 -f &quot;/home/tobias/Code/rollo-control/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j4 -f &quot;/home/tobias/Code/rollo-control/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j4 -f &quot;/home/tobias/Code/rollo-control/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/tobias/Code/rollo-control/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j4 -f &quot;/home/tobias/Code/rollo-control/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/gmake -j4 -f &quot;/home/tobias/Code/rollo-control/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j4 -f &quot;/home/tobias/Code/rollo-control/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j4 -f &quot;/home/tobias/Code/rollo-control/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rollo_switch">
+				<Option output="/home/tobias/Code/rollo-control/cmake-build-debug/rollo_switch" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/tobias/Code/rollo-control/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/tobias/Code/rollo-control/include"/>
+					<Add directory="/home/tobias/Code/rollo-control/lib/nana/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/6.3.1/../../../../include/c++/6.3.1"/>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/6.3.1/../../../../include/c++/6.3.1/x86_64-redhat-linux"/>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/6.3.1/../../../../include/c++/6.3.1/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/6.3.1/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j4 -f &quot;/home/tobias/Code/rollo-control/cmake-build-debug/Makefile&quot;  VERBOSE=1 rollo_switch"/>
+					<CompileFile command="/usr/bin/gmake -j4 -f &quot;/home/tobias/Code/rollo-control/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j4 -f &quot;/home/tobias/Code/rollo-control/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j4 -f &quot;/home/tobias/Code/rollo-control/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rollo_switch/fast">
+				<Option output="/home/tobias/Code/rollo-control/cmake-build-debug/rollo_switch" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/tobias/Code/rollo-control/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/tobias/Code/rollo-control/include"/>
+					<Add directory="/home/tobias/Code/rollo-control/lib/nana/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/6.3.1/../../../../include/c++/6.3.1"/>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/6.3.1/../../../../include/c++/6.3.1/x86_64-redhat-linux"/>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/6.3.1/../../../../include/c++/6.3.1/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/6.3.1/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j4 -f &quot;/home/tobias/Code/rollo-control/cmake-build-debug/Makefile&quot;  VERBOSE=1 rollo_switch/fast"/>
+					<CompileFile command="/usr/bin/gmake -j4 -f &quot;/home/tobias/Code/rollo-control/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j4 -f &quot;/home/tobias/Code/rollo-control/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j4 -f &quot;/home/tobias/Code/rollo-control/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="nana">
+				<Option output="/home/tobias/Code/rollo-control/cmake-build-debug/lib/nana/libnana.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/tobias/Code/rollo-control/cmake-build-debug/lib/nana"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-Dlinux"/>
+					<Add option="-DNANA_IGNORE_CONF"/>
+					<Add option="-DVERBOSE_PREPROCESSOR"/>
+					<Add directory="/home/tobias/Code/rollo-control/include"/>
+					<Add directory="/home/tobias/Code/rollo-control/lib/nana/include"/>
+					<Add directory="/usr/include/freetype2"/>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/6.3.1/../../../../include/c++/6.3.1"/>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/6.3.1/../../../../include/c++/6.3.1/x86_64-redhat-linux"/>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/6.3.1/../../../../include/c++/6.3.1/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/6.3.1/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j4 -f &quot;/home/tobias/Code/rollo-control/cmake-build-debug/lib/nana/Makefile&quot;  VERBOSE=1 nana"/>
+					<CompileFile command="/usr/bin/gmake -j4 -f &quot;/home/tobias/Code/rollo-control/cmake-build-debug/lib/nana/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j4 -f &quot;/home/tobias/Code/rollo-control/cmake-build-debug/lib/nana/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j4 -f &quot;/home/tobias/Code/rollo-control/cmake-build-debug/lib/nana/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="nana/fast">
+				<Option output="/home/tobias/Code/rollo-control/cmake-build-debug/lib/nana/libnana.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/tobias/Code/rollo-control/cmake-build-debug/lib/nana"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-Dlinux"/>
+					<Add option="-DNANA_IGNORE_CONF"/>
+					<Add option="-DVERBOSE_PREPROCESSOR"/>
+					<Add directory="/home/tobias/Code/rollo-control/include"/>
+					<Add directory="/home/tobias/Code/rollo-control/lib/nana/include"/>
+					<Add directory="/usr/include/freetype2"/>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/6.3.1/../../../../include/c++/6.3.1"/>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/6.3.1/../../../../include/c++/6.3.1/x86_64-redhat-linux"/>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/6.3.1/../../../../include/c++/6.3.1/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/6.3.1/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j4 -f &quot;/home/tobias/Code/rollo-control/cmake-build-debug/lib/nana/Makefile&quot;  VERBOSE=1 nana/fast"/>
+					<CompileFile command="/usr/bin/gmake -j4 -f &quot;/home/tobias/Code/rollo-control/cmake-build-debug/lib/nana/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j4 -f &quot;/home/tobias/Code/rollo-control/cmake-build-debug/lib/nana/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j4 -f &quot;/home/tobias/Code/rollo-control/cmake-build-debug/lib/nana/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/tobias/Code/rollo-control/lib/nana/source/any.cpp">
+			<Option target="nana"/>
+		</Unit>
+		<Unit filename="/home/tobias/Code/rollo-control/lib/nana/source/basic_types.cpp">
+			<Option target="nana"/>
+		</Unit>
+		<Unit filename="/home/tobias/Code/rollo-control/lib/nana/source/charset.cpp">
+			<Option target="nana"/>
+		</Unit>
+		<Unit filename="/home/tobias/Code/rollo-control/lib/nana/source/datetime.cpp">
+			<Option target="nana"/>
+		</Unit>
+		<Unit filename="/home/tobias/Code/rollo-control/lib/nana/source/deploy.cpp">
+			<Option target="nana"/>
+		</Unit>
+		<Unit filename="/home/tobias/Code/rollo-control/lib/nana/source/detail/platform_abstraction.cpp">
+			<Option target="nana"/>
+		</Unit>
+		<Unit filename="/home/tobias/Code/rollo-control/lib/nana/source/detail/platform_abstraction.hpp">
+			<Option target="nana"/>
+		</Unit>
+		<Unit filename="/home/tobias/Code/rollo-control/lib/nana/source/detail/platform_spec_posix.cpp">
+			<Option target="nana"/>
+		</Unit>
+		<Unit filename="/home/tobias/Code/rollo-control/lib/nana/source/detail/platform_spec_windows.cpp">
+			<Option target="nana"/>
+		</Unit>
+		<Unit filename="/home/tobias/Code/rollo-control/lib/nana/source/filesystem/filesystem.cpp">
+			<Option target="nana"/>
+		</Unit>
+		<Unit filename="/home/tobias/Code/rollo-control/lib/nana/source/gui/animation.cpp">
+			<Option target="nana"/>
+		</Unit>
+		<Unit filename="/home/tobias/Code/rollo-control/lib/nana/source/gui/basis.cpp">
+			<Option target="nana"/>
+		</Unit>
+		<Unit filename="/home/tobias/Code/rollo-control/lib/nana/source/gui/detail/basic_window.cpp">
+			<Option target="nana"/>
+		</Unit>
+		<Unit filename="/home/tobias/Code/rollo-control/lib/nana/source/gui/detail/bedrock_pi.cpp">
+			<Option target="nana"/>
+		</Unit>
+		<Unit filename="/home/tobias/Code/rollo-control/lib/nana/source/gui/detail/bedrock_posix.cpp">
+			<Option target="nana"/>
+		</Unit>
+		<Unit filename="/home/tobias/Code/rollo-control/lib/nana/source/gui/detail/bedrock_windows.cpp">
+			<Option target="nana"/>
+		</Unit>
+		<Unit filename="/home/tobias/Code/rollo-control/lib/nana/source/gui/detail/color_schemes.cpp">
+			<Option target="nana"/>
+		</Unit>
+		<Unit filename="/home/tobias/Code/rollo-control/lib/nana/source/gui/detail/drawer.cpp">
+			<Option target="nana"/>
+		</Unit>
+		<Unit filename="/home/tobias/Code/rollo-control/lib/nana/source/gui/detail/element_store.cpp">
+			<Option target="nana"/>
+		</Unit>
+		<Unit filename="/home/tobias/Code/rollo-control/lib/nana/source/gui/detail/events_operation.cpp">
+			<Option target="nana"/>
+		</Unit>
+		<Unit filename="/home/tobias/Code/rollo-control/lib/nana/source/gui/detail/native_window_interface.cpp">
+			<Option target="nana"/>
+		</Unit>
+		<Unit filename="/home/tobias/Code/rollo-control/lib/nana/source/gui/detail/window_layout.cpp">
+			<Option target="nana"/>
+		</Unit>
+		<Unit filename="/home/tobias/Code/rollo-control/lib/nana/source/gui/detail/window_manager.cpp">
+			<Option target="nana"/>
+		</Unit>
+		<Unit filename="/home/tobias/Code/rollo-control/lib/nana/source/gui/dragger.cpp">
+			<Option target="nana"/>
+		</Unit>
+		<Unit filename="/home/tobias/Code/rollo-control/lib/nana/source/gui/drawing.cpp">
+			<Option target="nana"/>
+		</Unit>
+		<Unit filename="/home/tobias/Code/rollo-control/lib/nana/source/gui/effects.cpp">
+			<Option target="nana"/>
+		</Unit>
+		<Unit filename="/home/tobias/Code/rollo-control/lib/nana/source/gui/element.cpp">
+			<Option target="nana"/>
+		</Unit>
+		<Unit filename="/home/tobias/Code/rollo-control/lib/nana/source/gui/filebox.cpp">
+			<Option target="nana"/>
+		</Unit>
+		<Unit filename="/home/tobias/Code/rollo-control/lib/nana/source/gui/layout_utility.cpp">
+			<Option target="nana"/>
+		</Unit>
+		<Unit filename="/home/tobias/Code/rollo-control/lib/nana/source/gui/msgbox.cpp">
+			<Option target="nana"/>
+		</Unit>
+		<Unit filename="/home/tobias/Code/rollo-control/lib/nana/source/gui/notifier.cpp">
+			<Option target="nana"/>
+		</Unit>
+		<Unit filename="/home/tobias/Code/rollo-control/lib/nana/source/gui/place.cpp">
+			<Option target="nana"/>
+		</Unit>
+		<Unit filename="/home/tobias/Code/rollo-control/lib/nana/source/gui/programming_interface.cpp">
+			<Option target="nana"/>
+		</Unit>
+		<Unit filename="/home/tobias/Code/rollo-control/lib/nana/source/gui/screen.cpp">
+			<Option target="nana"/>
+		</Unit>
+		<Unit filename="/home/tobias/Code/rollo-control/lib/nana/source/gui/state_cursor.cpp">
+			<Option target="nana"/>
+		</Unit>
+		<Unit filename="/home/tobias/Code/rollo-control/lib/nana/source/gui/timer.cpp">
+			<Option target="nana"/>
+		</Unit>
+		<Unit filename="/home/tobias/Code/rollo-control/lib/nana/source/gui/tooltip.cpp">
+			<Option target="nana"/>
+		</Unit>
+		<Unit filename="/home/tobias/Code/rollo-control/lib/nana/source/gui/widgets/button.cpp">
+			<Option target="nana"/>
+		</Unit>
+		<Unit filename="/home/tobias/Code/rollo-control/lib/nana/source/gui/widgets/categorize.cpp">
+			<Option target="nana"/>
+		</Unit>
+		<Unit filename="/home/tobias/Code/rollo-control/lib/nana/source/gui/widgets/checkbox.cpp">
+			<Option target="nana"/>
+		</Unit>
+		<Unit filename="/home/tobias/Code/rollo-control/lib/nana/source/gui/widgets/combox.cpp">
+			<Option target="nana"/>
+		</Unit>
+		<Unit filename="/home/tobias/Code/rollo-control/lib/nana/source/gui/widgets/date_chooser.cpp">
+			<Option target="nana"/>
+		</Unit>
+		<Unit filename="/home/tobias/Code/rollo-control/lib/nana/source/gui/widgets/float_listbox.cpp">
+			<Option target="nana"/>
+		</Unit>
+		<Unit filename="/home/tobias/Code/rollo-control/lib/nana/source/gui/widgets/form.cpp">
+			<Option target="nana"/>
+		</Unit>
+		<Unit filename="/home/tobias/Code/rollo-control/lib/nana/source/gui/widgets/frame.cpp">
+			<Option target="nana"/>
+		</Unit>
+		<Unit filename="/home/tobias/Code/rollo-control/lib/nana/source/gui/widgets/group.cpp">
+			<Option target="nana"/>
+		</Unit>
+		<Unit filename="/home/tobias/Code/rollo-control/lib/nana/source/gui/widgets/label.cpp">
+			<Option target="nana"/>
+		</Unit>
+		<Unit filename="/home/tobias/Code/rollo-control/lib/nana/source/gui/widgets/listbox.cpp">
+			<Option target="nana"/>
+		</Unit>
+		<Unit filename="/home/tobias/Code/rollo-control/lib/nana/source/gui/widgets/menu.cpp">
+			<Option target="nana"/>
+		</Unit>
+		<Unit filename="/home/tobias/Code/rollo-control/lib/nana/source/gui/widgets/menubar.cpp">
+			<Option target="nana"/>
+		</Unit>
+		<Unit filename="/home/tobias/Code/rollo-control/lib/nana/source/gui/widgets/panel.cpp">
+			<Option target="nana"/>
+		</Unit>
+		<Unit filename="/home/tobias/Code/rollo-control/lib/nana/source/gui/widgets/picture.cpp">
+			<Option target="nana"/>
+		</Unit>
+		<Unit filename="/home/tobias/Code/rollo-control/lib/nana/source/gui/widgets/progress.cpp">
+			<Option target="nana"/>
+		</Unit>
+		<Unit filename="/home/tobias/Code/rollo-control/lib/nana/source/gui/widgets/scroll.cpp">
+			<Option target="nana"/>
+		</Unit>
+		<Unit filename="/home/tobias/Code/rollo-control/lib/nana/source/gui/widgets/skeletons/content_view.cpp">
+			<Option target="nana"/>
+		</Unit>
+		<Unit filename="/home/tobias/Code/rollo-control/lib/nana/source/gui/widgets/skeletons/content_view.hpp">
+			<Option target="nana"/>
+		</Unit>
+		<Unit filename="/home/tobias/Code/rollo-control/lib/nana/source/gui/widgets/skeletons/text_editor.cpp">
+			<Option target="nana"/>
+		</Unit>
+		<Unit filename="/home/tobias/Code/rollo-control/lib/nana/source/gui/widgets/slider.cpp">
+			<Option target="nana"/>
+		</Unit>
+		<Unit filename="/home/tobias/Code/rollo-control/lib/nana/source/gui/widgets/spinbox.cpp">
+			<Option target="nana"/>
+		</Unit>
+		<Unit filename="/home/tobias/Code/rollo-control/lib/nana/source/gui/widgets/tabbar.cpp">
+			<Option target="nana"/>
+		</Unit>
+		<Unit filename="/home/tobias/Code/rollo-control/lib/nana/source/gui/widgets/textbox.cpp">
+			<Option target="nana"/>
+		</Unit>
+		<Unit filename="/home/tobias/Code/rollo-control/lib/nana/source/gui/widgets/toolbar.cpp">
+			<Option target="nana"/>
+		</Unit>
+		<Unit filename="/home/tobias/Code/rollo-control/lib/nana/source/gui/widgets/treebox.cpp">
+			<Option target="nana"/>
+		</Unit>
+		<Unit filename="/home/tobias/Code/rollo-control/lib/nana/source/gui/widgets/widget.cpp">
+			<Option target="nana"/>
+		</Unit>
+		<Unit filename="/home/tobias/Code/rollo-control/lib/nana/source/gui/wvl.cpp">
+			<Option target="nana"/>
+		</Unit>
+		<Unit filename="/home/tobias/Code/rollo-control/lib/nana/source/internationalization.cpp">
+			<Option target="nana"/>
+		</Unit>
+		<Unit filename="/home/tobias/Code/rollo-control/lib/nana/source/paint/detail/image_process_provider.cpp">
+			<Option target="nana"/>
+		</Unit>
+		<Unit filename="/home/tobias/Code/rollo-control/lib/nana/source/paint/detail/native_paint_interface.cpp">
+			<Option target="nana"/>
+		</Unit>
+		<Unit filename="/home/tobias/Code/rollo-control/lib/nana/source/paint/graphics.cpp">
+			<Option target="nana"/>
+		</Unit>
+		<Unit filename="/home/tobias/Code/rollo-control/lib/nana/source/paint/image.cpp">
+			<Option target="nana"/>
+		</Unit>
+		<Unit filename="/home/tobias/Code/rollo-control/lib/nana/source/paint/image_process_selector.cpp">
+			<Option target="nana"/>
+		</Unit>
+		<Unit filename="/home/tobias/Code/rollo-control/lib/nana/source/paint/pixel_buffer.cpp">
+			<Option target="nana"/>
+		</Unit>
+		<Unit filename="/home/tobias/Code/rollo-control/lib/nana/source/paint/text_renderer.cpp">
+			<Option target="nana"/>
+		</Unit>
+		<Unit filename="/home/tobias/Code/rollo-control/lib/nana/source/stdc++.cpp">
+			<Option target="nana"/>
+		</Unit>
+		<Unit filename="/home/tobias/Code/rollo-control/lib/nana/source/system/dataexch.cpp">
+			<Option target="nana"/>
+		</Unit>
+		<Unit filename="/home/tobias/Code/rollo-control/lib/nana/source/system/platform.cpp">
+			<Option target="nana"/>
+		</Unit>
+		<Unit filename="/home/tobias/Code/rollo-control/lib/nana/source/system/shared_wrapper.cpp">
+			<Option target="nana"/>
+		</Unit>
+		<Unit filename="/home/tobias/Code/rollo-control/lib/nana/source/system/timepiece.cpp">
+			<Option target="nana"/>
+		</Unit>
+		<Unit filename="/home/tobias/Code/rollo-control/lib/nana/source/threads/pool.cpp">
+			<Option target="nana"/>
+		</Unit>
+		<Unit filename="/home/tobias/Code/rollo-control/lib/nana/source/unicode_bidi.cpp">
+			<Option target="nana"/>
+		</Unit>
+		<Unit filename="/home/tobias/Code/rollo-control/src/ControlMessage.cpp">
+			<Option target="rollo_switch"/>
+		</Unit>
+		<Unit filename="/home/tobias/Code/rollo-control/src/MosquittoClient.cpp">
+			<Option target="rollo_switch"/>
+		</Unit>
+		<Unit filename="/home/tobias/Code/rollo-control/src/RolloController.cpp">
+			<Option target="rollo_switch"/>
+		</Unit>
+		<Unit filename="/home/tobias/Code/rollo-control/src/main.cpp">
+			<Option target="rollo_switch"/>
+		</Unit>
+		<Unit filename="/home/tobias/Code/rollo-control/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/home/tobias/Code/rollo-control/lib/nana/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\lib\nana\"/>
+		</Unit>
+		<Unit filename="/home/tobias/Code/rollo-control/lib/nana/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\lib\nana\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
